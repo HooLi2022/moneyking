@@ -1,1 +1,3 @@
-
+.transparent-border {
+  border: 10px solid hsla(45, 100%, 50%, .5);
+}
